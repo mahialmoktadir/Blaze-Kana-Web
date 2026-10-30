@@ -1,0 +1,6 @@
+{
+  "name": "Blaze Kana",
+  "description": "Premium 30-day Japanese language learning platform featuring 25 structured lessons, kana training, grammar lab, writing canvas, and spaced repetition.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

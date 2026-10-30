@@ -1,0 +1,16 @@
+{
+  "name": "Blaze Kana — Japanese Learning Platform",
+  "short_name": "Blaze Kana",
+  "description": "Premium 30-day Japanese language learning platform featuring 25 structured lessons, kana training, grammar lab, and spaced repetition.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#FAF9F5",
+  "theme_color": "#C23A2B",
+  "icons": [
+    {
+      "src": "/favicon.ico",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    }
+  ]
+}
